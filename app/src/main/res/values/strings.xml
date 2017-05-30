@@ -3,15 +3,33 @@
     <string name="title_activity_login">Sign in</string>
 
     <!-- Strings related to login -->
-    <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password (optional)</string>
-    <string name="action_sign_in">Sign in or register</string>
-    <string name="action_sign_in_short">Sign in</string>
-    <string name="error_invalid_email">This email address is invalid</string>
-    <string name="error_invalid_password">This password is too short</string>
-    <string name="error_incorrect_password">This password is incorrect</string>
-    <string name="error_field_required">This field is required</string>
-    <string name="permission_rationale">"Contacts permissions are needed for providing email
-        completions."
-    </string>
+    <string name="txt_login">Login</string>
+    <string name="hint_login">Type your username</string>
+    <string name="txt_senha">Password</string>
+    <string name="hint_senha">Type your password</string>
+    <string name="bt_login">Connect</string>
+    <string name="toast_login_invalido">Invalid username or password</string>
+    <string name="txt_saudacao">Hi</string>
+
+    <string name="txt_escolha_pizza">Make your choice</string>
+    <string name="txt_pizza_atum">Tuna</string>
+    <string name="txt_pizza_bacon">Bacon</string>
+    <string name="txt_pizza_calabresa">Calabresa</string>
+    <string name="txt_pizza_mussarela">Mozzarella</string>
+    <string name="txt_tamanho_pizza">Pizza Size</string>
+    <string name="txt_pizza_pequena">Small</string>
+    <string name="txt_pizza_media">Normal</string>
+    <string name="txt_pizza_grande">Large</string>
+    <string name="txt_forma_pagamento">Payments</string>
+    <string name="txt_extras">Extras</string>
+    <string name="txt_borda_recheada">Filled edge</string>
+    <string name="txt_recheio_extra">Extra Filling</string>
+    <string name="txt_refrigerante">Soda</string>
+    <string name="txt_sobremesa">Dessert</string>
+    <string name="txt_calcular">Calc</string>
+    <string name="txt_cheque">Check</string>
+    <string name="txt_cartao">Credit Card</string>
+    <string name="txt_vr">Ticket</string>
+    <string name="txt_dinheiro">Cash</string>
+
 </resources>
